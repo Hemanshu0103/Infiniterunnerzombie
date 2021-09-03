@@ -1,1 +1,2 @@
-# Infiniterunnerzombie
+# InfineRunnerZombie
+Zombie game
